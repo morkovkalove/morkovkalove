@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @morkovkalove
 - 👀 I’m interested in Code
-- 🌱 I’m currently learning Python and C++
+- 🌱 I’m currently learning Python and C#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
